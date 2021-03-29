@@ -2,7 +2,7 @@
 
 > A Flutter template for the FlutterFire tech stack.
  
-You only need to connect a Firebase project using the [official documentation](https://firebase.flutter.dev/)
+You only need to connect a Firebase project using the [official documentation](https://firebase.flutter.dev/docs/overview)
  
 ## Implements:
   - Authentication
